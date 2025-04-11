@@ -52,7 +52,7 @@
   <button class="voice-button" onclick="playVoice()">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/microphone.png" alt="Play" />
   </button>
-  <div class="text" id="voiceText">Hey, what's up? I'm Muzamil.</div><audio id="muzamilAudio" src="/mnt/data/20250411-104313.mp3"></audio>
+  <div class="text" id="voiceText">Hey, what's up? I'm Muzamil.</div><audio id="muzamilAudio" src="20250411-104313.mp3"></audio>
 
   <script>
     function playVoice() {
